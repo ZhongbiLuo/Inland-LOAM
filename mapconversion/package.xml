@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>mapconversion</name>
+  <version>1.0.0</version>
+  <description>Convert a colored 3D OctoMap into Inland-LOAM 2D structural semantic maps.</description>
+
+  <maintainer email="zhongbi.luo@kuleuven.be">Zhongbi Luo</maintainer>
+  <license>MIT</license>
+
+  <!-- Dependencies -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>eigen</depend>
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>mapconversion_msgs</depend>
+  <depend>tf2</depend>
+  <depend>tf2_ros</depend>
+  <build_depend>eigen3_cmake_module</build_depend>
+  <depend>visualization_msgs</depend>
+  <depend>octomap_msgs</depend>
+  <depend>octomap</depend>
+  <depend>octomap_ros</depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
