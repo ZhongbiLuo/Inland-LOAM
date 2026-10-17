@@ -4,7 +4,7 @@
 
 ### News
 
-- **2026-10-17**: Code and demo released.
+- **2026-10-17**: 🔓Code released.
 - **2026-10-05**: 🚀Conditionally accepted.
 
 
