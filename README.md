@@ -108,8 +108,7 @@ ros2 bag play /path/to/extracted_demo --rate 1.0
 Replace `/path/to/extracted_demo` with the extracted bag directory containing
 `metadata.yaml`. Wait for RViz to open before playing.
 
-RViz shows the raw LiDAR points, 3D map, trajectory, and structural semantic
-map at **0.6 opacity**. See [running your own data](docs/RUNNING.md)
+See [running your own data](docs/RUNNING.md)
 and the [configuration reference](docs/CONFIGURATION.md) for further details.
 Loop closure is disabled in the supplied configuration.
 
