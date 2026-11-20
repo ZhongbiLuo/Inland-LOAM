@@ -25,7 +25,8 @@ and vertical structures, open water, and under-bridge clearance.
 
 Zhongbi Luo, Yunjia Wang, Jan Swevers, Peter Slaets, and Herman Bruyninckx.
 **Inland-LOAM: Voxel-Based Structural Semantic LiDAR Odometry and Mapping for
-Inland Waterway Navigation.** Manuscript under revision.
+Inland Waterway Navigation.** *IEEE Transactions on Intelligent Transportation
+Systems*, accepted, 2026.
 
 ### 1.2 Dataset
 
