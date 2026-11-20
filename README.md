@@ -31,6 +31,10 @@ Inland Waterway Navigation.** Manuscript under revision.
 The dataset includes raw LiDAR data collected in Areas A–E and is available
 on [OneDrive](https://kuleuven-my.sharepoint.com/:f:/g/personal/zhongbi_luo_kuleuven_be/IgCa6J-httH6R5Sm6yulEYzwAUnMrPP_4IKwaKqs_GaIbC4?e=1LDORC).
 
+### 1.3 Scope and limitations
+
+Inland-LOAM performs best when the LiDAR observes the water surface, because the water surface constraints rely on these returns. It has so far been tested only with rotating multi-beam LiDAR. Other LiDAR types, such as solid-state or non-repetitive scanning sensors, have not been tested.
+
 ## 2. Dependencies
 
 ### 2.1 Ubuntu and ROS
