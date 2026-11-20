@@ -4,6 +4,7 @@
 
 ### News
 
+- **2026-11-15**: 🎉Accepted to IEEE Transactions on Intelligent Transportation Systems (T-ITS).
 - **2026-10-17**: 🔓Code released.
 - **2026-10-05**: 🚀Conditionally accepted.
 
